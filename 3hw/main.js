@@ -66,7 +66,3 @@ cars[4] = 'kia'
 console.log(cars)
 cars = ['bmw', 'honda','mers','lexus']
 console.log(cars.length)
-let person = {
-    name : "Muslim",
-    age : 35
-}
