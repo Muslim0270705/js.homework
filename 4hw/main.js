@@ -117,19 +117,19 @@
 //         console.log("осень")
 //         break
 // }
-let time = 23
-switch (true){
-    case time > 0 && time <=15:
-        console.log("время относится к четверти часа")
-        break
-    case time > 15 && time <=30:
-        console.log("время относится к половине часа")
-        break
-    case time > 30 && time <=45:
-        console.log("время относится к 3/4 часа")
-        break
-    case time > 45 && time <=60:
-        console.log("время относится к целому часу.")
-    default:
-        console.log(false)
-}
+// let time = 23
+// switch (true){
+//     case time > 0 && time <=15:
+//         console.log("время относится к четверти часа")
+//         break
+//     case time > 15 && time <=30:
+//         console.log("время относится к половине часа")
+//         break
+//     case time > 30 && time <=45:
+//         console.log("время относится к 3/4 часа")
+//         break
+//     case time > 45 && time <=60:
+//         console.log("время относится к целому часу.")
+//     default:
+//         console.log(false)
+// }
