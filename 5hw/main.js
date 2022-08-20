@@ -94,7 +94,15 @@
 //     console.log(a[i])
 // }
 // 13) С помощью цикла for, вывести в консоль таблицу умножения для числа 5, таблица умножения будет начинаться с 2 до 10. В результате вы увидите в консоли см. фото.
-let a = 5
-for (let i=2; i<10;i++){
-    console.log(a,"x",i,"=",a*i)
-}
+// let a = 5
+// for (let i=2; i<10;i++){
+//     console.log(a,"x",i,"=",a*i)
+// // }
+// const  a = (item) =>{
+//     for (let i = 0; i < item.length; i++) {
+//         console.log(item[i].split('').reverse().join(''))
+//     }
+// }
+// console.log(a("anna"))
+// console.log(a("bob"))
+// console.log(a("cold"))
